@@ -1,0 +1,14 @@
+/home/max/tp/bin/Debug/net8.0/tp
+/home/max/tp/bin/Debug/net8.0/tp.deps.json
+/home/max/tp/bin/Debug/net8.0/tp.runtimeconfig.json
+/home/max/tp/bin/Debug/net8.0/tp.dll
+/home/max/tp/bin/Debug/net8.0/tp.pdb
+/home/max/tp/obj/Debug/net8.0/tp.GeneratedMSBuildEditorConfig.editorconfig
+/home/max/tp/obj/Debug/net8.0/tp.AssemblyInfoInputs.cache
+/home/max/tp/obj/Debug/net8.0/tp.AssemblyInfo.cs
+/home/max/tp/obj/Debug/net8.0/tp.csproj.CoreCompileInputs.cache
+/home/max/tp/obj/Debug/net8.0/tp.dll
+/home/max/tp/obj/Debug/net8.0/refint/tp.dll
+/home/max/tp/obj/Debug/net8.0/tp.pdb
+/home/max/tp/obj/Debug/net8.0/tp.genruntimeconfig.cache
+/home/max/tp/obj/Debug/net8.0/ref/tp.dll
